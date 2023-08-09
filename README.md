@@ -38,10 +38,11 @@ This means that the video url of the character named Alyss needs to be obtained.
 ### 4. Microservice request example
 In the local environment, start the server first, then start client.js, and perform some interactions on the client's interactive interface to send request data.
 
-- client.js:
-
-
 - server.js:
+![server](https://github.com/jinchuantian/MicroService/blob/main/serverjs.jpg)
+
+- client.js:
+![client](https://github.com/jinchuantian/MicroService/blob/main/clientjs.jpg)
 
 
 ### 5. Tips
